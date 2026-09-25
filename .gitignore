@@ -1,0 +1,37 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Export root directory
+/ARQUIVOS/
+ARQUIVOS/
+
+# Logs directory
+/LOGS/
+LOGS/
+*.log
+
+# Cache & Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE & Editors
+.vscode/
+.idea/
+
+# Scratch & Temporary
+teste.py
+
